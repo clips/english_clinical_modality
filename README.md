@@ -1,6 +1,6 @@
-# Speculation detection of concepts in Dutch clinical text
+# Negation and speculation detection of concepts in English clinical text
 
-This repository contains the source code for English negation and speculation detection of clinical concepts in the [BioScope corpus](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2586758/). This software was developed in the scope of the  [ACCUMULATE](https://github.com/clips/accumulate) project.
+This repository contains the source code for negation and speculation detection of concepts extracted from the English clinical texts in the [BioScope corpus](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2586758/). This software was developed in the scope of the  [ACCUMULATE](https://github.com/clips/accumulate) project.
 
 
 ## Requirements
