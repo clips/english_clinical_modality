@@ -64,5 +64,5 @@ extract_dependency_data(infile, outfile)
 
 ### Negation and speculation detection
 
-The scripts **detect_negation.py** and **detect_speculation.py** contain all code for running negation and speculation detection on the data prepared in the previous steps. This code is contained in the **NegationDetection** and **SpeculationDetection** classes. The **general_results()** and **cue_level_results** give a demonstration and evaluation of highly effective simple baseline models. A dependency parse model is also provided for customization, in which rules can be easily inserted.
+The scripts **detect_negation.py** and **detect_speculation.py** contain all code for running negation and speculation detection on the data prepared in the previous steps. This code is contained in the **NegationDetection** and **SpeculationDetection** classes. The **general_results()** and **cue_level_results()** functions give a demonstration and evaluation of highly effective simple baseline models. A dependency parse model is also provided for customization, in which rules can be easily inserted.
 .
